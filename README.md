@@ -4,7 +4,7 @@
 This is an image search app with JavaScript API.
 
 ## Features
-- Users can use search bar that connects to API, allowing them to view images.
+- Users can use search bar that connects to an API, allowing them to view images.
 
 ## Tools
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
